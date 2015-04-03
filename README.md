@@ -1,8 +1,9 @@
 # HideOnScrollDemo
 
-hide the toolbar when you scroll this view
-运行该项目需自行导入最新的依赖库
+hide the toolbar when you scroll this view  
 
+-
+运行该项目需自行导入最新的依赖库  
 dependencies {  
     compile fileTree(dir: 'libs', include: ['*.jar'])  
     compile 'com.android.support:appcompat-v7:21.0.3'  
